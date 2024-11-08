@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div align="center">
   <h1><b> Fundamentals of Programming I </b></h1>
   <h2><b> <a href="https://github.com/SWEG-2015EC-Batch/FoP-I-Exercises-Solution"> Practical Exercises Solution and Summary Note</a></b></h2>
