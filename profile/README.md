@@ -9,10 +9,6 @@
 ## 📗 Table of Contents
 
 ### 📖 Chapter-1 Algorithms Design
-<ul>
-  <li><a href="#">Exercise 1</a></li>
-  <li><a href="#">Exercise 2</a></li>
-</ul>
 
 ### 📖 Chapter-2 Basics of Programming Constructor
 <ul>
